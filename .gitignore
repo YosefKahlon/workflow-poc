@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Node / Vite
+node_modules/
+dist/
+.env
+
+# Editor/IDE
+.vs/
+.vscode/
+.idea/
+
+# Local debug artifacts
+.playwright-mcp/

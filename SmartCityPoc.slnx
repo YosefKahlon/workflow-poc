@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartCityPoc.Api/SmartCityPoc.Api.csproj" />
+  <Project Path="SmartCityPoc.Shared/SmartCityPoc.Shared.csproj" />
+  <Project Path="SmartCityPoc.Worker/SmartCityPoc.Worker.csproj" />
+</Solution>
